@@ -1,1 +1,1 @@
-#### Discipline of data structure held in the Computer Science course at the state university of Santa Cruz.
+Student of the discipline of data structure taught in the Computer Science course at the State University of Santa Cruz.
